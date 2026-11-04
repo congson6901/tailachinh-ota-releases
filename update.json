@@ -1,15 +1,15 @@
 ﻿{
-  "versionCode": 83,
+  "versionCode": 85,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b83/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b83/Tailachinh_v2.0.apk",
-  "sha256": "59a17e6ddc055f8a232480228520020e8e3ff75cc26af7f733f21fb9bb53b220",
-  "fileSize": 19198259,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b85/Tailachinh_v2.0.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b85/Tailachinh_v2.0.apk",
+  "sha256": "1aee2f10789e52bfb6ce566e33316f1df12bddb38f031c628ed4072332209c95",
+  "fileSize": 19214641,
   "mandatory": false,
-  "publishedAt": "2026-11-04T09:55:17+07:00",
-  "changelog": "Bản phát hành Build 83 với giao diện Soft Pastel và tính năng tự cập nhật OTA.",
+  "publishedAt": "2026-11-04T11:37:13+07:00",
+  "changelog": "Nâng cấp giao diện Soft Pastel Design System, tối giản Popup chi tiết giao dịch (chỉ còn 2 nút Xóa và Chỉnh sửa), mở rộng 7 phân loại dòng tiền trong chỉnh sửa (Rút tiền mặt, Chuyển khoản, Cho vay, Đi vay, Trả nợ/Thu nợ, Tích lũy tài sản), tích hợp trích xuất đối tác thông minh CounterpartyExtractor loại trừ tên chính chủ và tự động gạch nợ 1 chạm AutoDebtMatchEngine.",
   "releaseNotes": [
-    "Bản phát hành Build 83 với giao diện Soft Pastel và tính năng tự cập nhật OTA."
+    "Nâng cấp giao diện Soft Pastel Design System, tối giản Popup chi tiết giao dịch (chỉ còn 2 nút Xóa và Chỉnh sửa), mở rộng 7 phân loại dòng tiền trong chỉnh sửa (Rút tiền mặt, Chuyển khoản, Cho vay, Đi vay, Trả nợ/Thu nợ, Tích lũy tài sản), tích hợp trích xuất đối tác thông minh CounterpartyExtractor loại trừ tên chính chủ và tự động gạch nợ 1 chạm AutoDebtMatchEngine."
   ]
 }
