@@ -1,18 +1,15 @@
 ﻿{
-  "versionCode": 82,
+  "versionCode": 83,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0/Tailachinh_v2.0.apk",
-  "sha256": "7f3c990aac0e39b2b8a37822237bd1f82761e94d3dcc30a2b519986e6823973f",
-  "fileSize": 19181876,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b83/Tailachinh_v2.0.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b83/Tailachinh_v2.0.apk",
+  "sha256": "59a17e6ddc055f8a232480228520020e8e3ff75cc26af7f733f21fb9bb53b220",
+  "fileSize": 19198259,
   "mandatory": false,
-  "publishedAt": "2026-11-04T09:30:00+07:00",
-  "changelog": "• Giao diện Soft Pastel hoàn toàn mới, thanh lịch và tối giản\n• Trợ lý AI 'Ây với Ai' phản hồi thông minh\n• Thống nhất chuẩn nút bấm, thanh chuyển Tab Pill Selector và Hero Card\n• Hỗ trợ tự động kiểm tra và nâng cấp OTA trực tiếp trong ứng dụng",
+  "publishedAt": "2026-11-04T09:55:17+07:00",
+  "changelog": "Bản phát hành Build 83 với giao diện Soft Pastel và tính năng tự cập nhật OTA.",
   "releaseNotes": [
-    "Giao diện Soft Pastel hoàn toàn mới, thanh lịch và tối giản",
-    "Trợ lý AI 'Ây với Ai' phản hồi thông minh",
-    "Thống nhất chuẩn nút bấm, thanh chuyển Tab Pill Selector và Hero Card",
-    "Hỗ trợ tự động kiểm tra và nâng cấp OTA trực tiếp trong ứng dụng"
+    "Bản phát hành Build 83 với giao diện Soft Pastel và tính năng tự cập nhật OTA."
   ]
 }
