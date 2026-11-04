@@ -1,13 +1,13 @@
-﻿{
+{
   "versionCode": 85,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
   "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b85/Tailachinh_v2.0.apk",
   "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b85/Tailachinh_v2.0.apk",
-  "sha256": "1aee2f10789e52bfb6ce566e33316f1df12bddb38f031c628ed4072332209c95",
-  "fileSize": 19214641,
+  "sha256": "a7f8f0cf7e570e4a597912d92d26087f4f704e7183c54ca81a0f82fe825137f1",
+  "fileSize": 19214627,
   "mandatory": false,
-  "publishedAt": "2026-11-04T11:37:13+07:00",
+  "publishedAt": "2026-11-04T11:46:40+07:00",
   "changelog": "Nâng cấp giao diện Soft Pastel Design System, tối giản Popup chi tiết giao dịch (chỉ còn 2 nút Xóa và Chỉnh sửa), mở rộng 7 phân loại dòng tiền trong chỉnh sửa (Rút tiền mặt, Chuyển khoản, Cho vay, Đi vay, Trả nợ/Thu nợ, Tích lũy tài sản), tích hợp trích xuất đối tác thông minh CounterpartyExtractor loại trừ tên chính chủ và tự động gạch nợ 1 chạm AutoDebtMatchEngine.",
   "releaseNotes": [
     "Nâng cấp giao diện Soft Pastel Design System, tối giản Popup chi tiết giao dịch (chỉ còn 2 nút Xóa và Chỉnh sửa), mở rộng 7 phân loại dòng tiền trong chỉnh sửa (Rút tiền mặt, Chuyển khoản, Cho vay, Đi vay, Trả nợ/Thu nợ, Tích lũy tài sản), tích hợp trích xuất đối tác thông minh CounterpartyExtractor loại trừ tên chính chủ và tự động gạch nợ 1 chạm AutoDebtMatchEngine."
