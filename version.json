@@ -1,15 +1,18 @@
 {
-  "versionCode": 85,
+  "versionCode": 86,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b85/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b85/Tailachinh_v2.0.apk",
-  "sha256": "a7f8f0cf7e570e4a597912d92d26087f4f704e7183c54ca81a0f82fe825137f1",
-  "fileSize": 19214627,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b86/Tailachinh_v2.0.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b86/Tailachinh_v2.0.apk",
+  "sha256": "ff36a67ba4ac8b056dbe6376c7037c86477bfed6338ef02f3007843b5dae8c0c",
+  "fileSize": 19214643,
   "mandatory": false,
-  "publishedAt": "2026-11-04T11:46:40+07:00",
-  "changelog": "Nâng cấp giao diện Soft Pastel Design System, tối giản Popup chi tiết giao dịch (chỉ còn 2 nút Xóa và Chỉnh sửa), mở rộng 7 phân loại dòng tiền trong chỉnh sửa (Rút tiền mặt, Chuyển khoản, Cho vay, Đi vay, Trả nợ/Thu nợ, Tích lũy tài sản), tích hợp trích xuất đối tác thông minh CounterpartyExtractor loại trừ tên chính chủ và tự động gạch nợ 1 chạm AutoDebtMatchEngine.",
+  "publishedAt": "2026-11-09T14:24:30+07:00",
+  "changelog": "Tích hợp cổng Đăng nhập / Đăng ký ngay khi mới mở ứng dụng (First-Run Auth Gate), bổ sung nút Đăng nhập tại màn hình Onboarding và trang Tài khoản, hỗ trợ Google Sign-In và chế độ Dùng thử Khách an toàn.",
   "releaseNotes": [
-    "Nâng cấp giao diện Soft Pastel Design System, tối giản Popup chi tiết giao dịch (chỉ còn 2 nút Xóa và Chỉnh sửa), mở rộng 7 phân loại dòng tiền trong chỉnh sửa (Rút tiền mặt, Chuyển khoản, Cho vay, Đi vay, Trả nợ/Thu nợ, Tích lũy tài sản), tích hợp trích xuất đối tác thông minh CounterpartyExtractor loại trừ tên chính chủ và tự động gạch nợ 1 chạm AutoDebtMatchEngine."
+    "Tích hợp cổng Đăng nhập / Đăng ký ngay khi mới mở ứng dụng (First-Run Auth Gate)",
+    "Bổ sung nút Đăng nhập tài khoản có sẵn tại màn hình Onboarding Chào mừng",
+    "Bổ sung nút Đăng nhập tài khoản và Google Sign-In tại trang Quản lý Tài khoản (AccountScreen)",
+    "Hỗ trợ chế độ Dùng thử Khách linh hoạt không bắt buộc tạo tài khoản"
   ]
 }
