@@ -1,17 +1,17 @@
 {
-  "versionCode": 87,
+  "versionCode": 88,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b87/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b87/Tailachinh_v2.0.apk",
-  "sha256": "bd51c465a00e8141e045d5cbb1b1d3feb496ed01bd69dd3aecca5b04ca754f8f",
-  "fileSize": 19214647,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b88/Tailachinh_v2.0.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b88/Tailachinh_v2.0.apk",
+  "sha256": "7bb09ddceb151e2424dd0eb88b309cdafd19176e97da41aafbcef26083bdc7c3",
+  "fileSize": 19231020,
   "mandatory": false,
-  "publishedAt": "2026-11-18T09:07:30+07:00",
-  "changelog": "Cho phép chụp ảnh màn hình toàn bộ ứng dụng trên thiết bị thực tế, tích hợp nút Khôi phục cài đặt gốc trong Cài đặt để xóa dữ liệu làm mới 100%.",
+  "publishedAt": "2026-11-18T09:18:20+07:00",
+  "changelog": "Chuẩn hóa Sổ Vay/Nợ (Xanh lá cho Cho vay / Đỏ cho Đi vay), xóa hoàn toàn dữ liệu demo +420k trên Trang chủ, đồng bộ màu tiền vào (Xanh lá) và tiền ra (Đỏ).",
   "releaseNotes": [
-    "Cho phép chụp ảnh màn hình tự do trên toàn bộ ứng dụng để dễ dàng gửi phản hồi lỗi",
-    "Tích hợp tính năng Khôi phục cài đặt gốc (Factory Reset) trực tiếp trong Cài đặt",
-    "Tối ưu độ ổn định và tương thích trên các dòng máy Android/Xiaomi HyperOS"
+    "Sổ Vay / Nợ: Thẻ tổng quan chuyển sang màu Xanh lá năng lượng khi Cho vay (Ai nợ tôi) và màu Đỏ cảnh báo khi Đi vay (Tôi nợ ai)",
+    "Xóa hoàn toàn dữ liệu demo +420.000 đ và danh mục ảo trên Trang chủ",
+    "Chuẩn hóa đồng bộ: Toàn bộ tiền vào mang màu Xanh lá (+), tiền ra mang màu Đỏ (-)"
   ]
 }
