@@ -1,22 +1,20 @@
 ﻿{
-  "versionCode": 90,
+  "versionCode": 91,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b90/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b90/Tailachinh_v2.0.apk",
-  "sha256": "4ac6164a6f6cf25cbc4a27611c8a7debe69148eebffce3b5db9165774351495e",
-  "fileSize": 19247402,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b91/Tailachinh_v2.0.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b91/Tailachinh_v2.0.apk",
+  "sha256": "e6482bad16f992ae2933afe6edc5508852fa4e29e46827f9b854197e0981eb78",
+  "fileSize": 19231022,
   "mandatory": false,
-  "publishedAt": "2026-11-18T10:58:00+07:00",
-  "changelog": "Cập nhật diện mạo mới Chuẩn Phong Cách VietinBank iPay Mobile 2026: Nền Light Ethereal Silk cao cấp, Top Bar & Profile aura cầu vồng, Thẻ tài khoản Hero VietinBank với số tài khoản **** **** 8047, nút mắt bật tắt số dư, phân tách Thu (+) xanh lá và Chi (-) đỏ, Lưới 3x3 Chức năng yêu thích bảo toàn 100% tính năng cũ.",
+  "publishedAt": "2026-11-18T11:09:00+07:00",
+  "changelog": "Đồng bộ toàn bộ các trang giao diện về chuẩn Soft Pastel V2: Tiêu đề và phân cấp typography đồng nhất trên cả 5 màn hình chính, chuẩn hóa màu sắc dòng tiền (Tiền vào / Cho vay = Xanh lá, Tiền ra / Đi vay = Đỏ), bảo toàn 100% 16 tiện ích và toàn vẹn dữ liệu.",
   "releaseNotes": [
-    "Thiết kế mới Chuẩn Phong Cách VietinBank iPay Mobile 2026 cao cấp & hiện đại",
-    "Top Header: Logo 'Tài Là Chính v2.0' với 3 nút tiện ích Vương miện, Chuông đỏ Ây với Ai, Cài đặt",
-    "Profile: Avatar viền aura cầu vồng đa sắc, tên NGUYEN CONG SON và nút 'Tài khoản chính →'",
-    "Thẻ Hero Account VietinBank: Số tài khoản **** **** 8047, số dư xanh biển sâu #003865, nút mắt ẩn/hiện số dư, nút chuyển tiếp tròn, phân tách Thu (+) xanh lá và Chi (-) đỏ cùng chu kỳ 1W/1M/3M/1Y",
-    "Cặp nút điều hướng nhanh hình viên thuốc: '🏛️ Danh mục tài chính' và '🕒 Lịch sử giao dịch'",
-    "Lưới 3x3 'Chức năng yêu thích' giữ nguyên 100% 9 tính năng cốt lõi và nút 'Xem tất cả dịch vụ (16+)'",
-    "Thanh Dock nổi Bottom Navigation với nút Add trung tâm gradient biển sâu sang trọng",
-    "Bảo toàn tuyệt đối 100% dữ liệu tài chính, sổ nợ, hạn mức và logic kế toán"
+    "Quay trở lại cấu trúc giao diện chuẩn Soft Pastel V2 trang nhã và mượt mà",
+    "Đồng bộ chuẩn typography trên toàn bộ 5 màn hình: Trang chủ, Lịch sử, Thêm giao dịch, Báo cáo, Cài đặt",
+    "Chuẩn hóa màu sắc: Tiền vào / Thu nhập / Cho vay (Cần thu) mang màu Xanh lá (#10B981) kèm dấu (+)",
+    "Chuẩn hóa màu sắc: Tiền ra / Chi tiêu / Đi vay (Cần trả) mang màu Đỏ (#EF4444) kèm dấu (-)",
+    "Loại bỏ dữ liệu demo ảo trong trợ lý Ây với Ai, phân tích chuẩn xác từ giao dịch thực tế",
+    "Bảo toàn nguyên vẹn 100% tất cả 16 tiện ích tài chính và toàn bộ dữ liệu người dùng"
   ]
 }
