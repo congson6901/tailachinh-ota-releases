@@ -1,17 +1,18 @@
 {
-  "versionCode": 88,
+  "versionCode": 89,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b88/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b88/Tailachinh_v2.0.apk",
-  "sha256": "7bb09ddceb151e2424dd0eb88b309cdafd19176e97da41aafbcef26083bdc7c3",
-  "fileSize": 19231020,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b89/Tailachinh_v2.0.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b89/Tailachinh_v2.0.apk",
+  "sha256": "2869bba2422fc22b0167fe24bf14a48919816114b8f97995cc6c3952cf5eb823",
+  "fileSize": 19231008,
   "mandatory": false,
-  "publishedAt": "2026-11-18T09:18:20+07:00",
-  "changelog": "Chuẩn hóa Sổ Vay/Nợ (Xanh lá cho Cho vay / Đỏ cho Đi vay), xóa hoàn toàn dữ liệu demo +420k trên Trang chủ, đồng bộ màu tiền vào (Xanh lá) và tiền ra (Đỏ).",
+  "publishedAt": "2026-11-18T09:55:00+07:00",
+  "changelog": "Khắc phục triệt để lỗi vòng lặp đăng nhập/chào mừng sau khi khôi phục cài đặt gốc: Vào thẳng Dashboard ngay sau khi đăng nhập hoặc dùng thử khách, bổ sung nút khôi phục sao lưu một chạm tại màn hình Đăng nhập.",
   "releaseNotes": [
-    "Sổ Vay / Nợ: Thẻ tổng quan chuyển sang màu Xanh lá năng lượng khi Cho vay (Ai nợ tôi) và màu Đỏ cảnh báo khi Đi vay (Tôi nợ ai)",
-    "Xóa hoàn toàn dữ liệu demo +420.000 đ và danh mục ảo trên Trang chủ",
-    "Chuẩn hóa đồng bộ: Toàn bộ tiền vào mang màu Xanh lá (+), tiền ra mang màu Đỏ (-)"
+    "Khắc phục triệt để vòng lặp: Đăng nhập/Đăng ký hoặc chọn Khách sẽ đưa vào thẳng Dashboard",
+    "Loại bỏ màn hình Onboarding Chào mừng rườm rà đối với người dùng đã xác thực",
+    "Bổ sung nút '📁 Khôi phục từ bản sao lưu' trực tiếp ngay tại màn hình Đăng nhập / Đăng ký",
+    "Bảo toàn 100% tính toàn vẹn dữ liệu tài chính và màu sắc Soft Pastel chuẩn"
   ]
 }
