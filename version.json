@@ -1,18 +1,17 @@
 {
-  "versionCode": 86,
+  "versionCode": 87,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b86/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b86/Tailachinh_v2.0.apk",
-  "sha256": "ff36a67ba4ac8b056dbe6376c7037c86477bfed6338ef02f3007843b5dae8c0c",
-  "fileSize": 19214643,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b87/Tailachinh_v2.0.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b87/Tailachinh_v2.0.apk",
+  "sha256": "bd51c465a00e8141e045d5cbb1b1d3feb496ed01bd69dd3aecca5b04ca754f8f",
+  "fileSize": 19214647,
   "mandatory": false,
-  "publishedAt": "2026-11-09T14:24:30+07:00",
-  "changelog": "Tích hợp cổng Đăng nhập / Đăng ký ngay khi mới mở ứng dụng (First-Run Auth Gate), bổ sung nút Đăng nhập tại màn hình Onboarding và trang Tài khoản, hỗ trợ Google Sign-In và chế độ Dùng thử Khách an toàn.",
+  "publishedAt": "2026-11-18T09:07:30+07:00",
+  "changelog": "Cho phép chụp ảnh màn hình toàn bộ ứng dụng trên thiết bị thực tế, tích hợp nút Khôi phục cài đặt gốc trong Cài đặt để xóa dữ liệu làm mới 100%.",
   "releaseNotes": [
-    "Tích hợp cổng Đăng nhập / Đăng ký ngay khi mới mở ứng dụng (First-Run Auth Gate)",
-    "Bổ sung nút Đăng nhập tài khoản có sẵn tại màn hình Onboarding Chào mừng",
-    "Bổ sung nút Đăng nhập tài khoản và Google Sign-In tại trang Quản lý Tài khoản (AccountScreen)",
-    "Hỗ trợ chế độ Dùng thử Khách linh hoạt không bắt buộc tạo tài khoản"
+    "Cho phép chụp ảnh màn hình tự do trên toàn bộ ứng dụng để dễ dàng gửi phản hồi lỗi",
+    "Tích hợp tính năng Khôi phục cài đặt gốc (Factory Reset) trực tiếp trong Cài đặt",
+    "Tối ưu độ ổn định và tương thích trên các dòng máy Android/Xiaomi HyperOS"
   ]
 }
