@@ -1,20 +1,18 @@
 ﻿{
-  "versionCode": 91,
+  "versionCode": 92,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b91/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b91/Tailachinh_v2.0.apk",
-  "sha256": "e6482bad16f992ae2933afe6edc5508852fa4e29e46827f9b854197e0981eb78",
-  "fileSize": 19231022,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b92/Tailachinh_v2.0.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b92/Tailachinh_v2.0.apk",
+  "sha256": "d32b6bb0044b0497eceafd904116ec9f738d75e31df83092a295a04833c2379b",
+  "fileSize": 19231032,
   "mandatory": false,
-  "publishedAt": "2026-11-18T11:09:00+07:00",
-  "changelog": "Đồng bộ toàn bộ các trang giao diện về chuẩn Soft Pastel V2: Tiêu đề và phân cấp typography đồng nhất trên cả 5 màn hình chính, chuẩn hóa màu sắc dòng tiền (Tiền vào / Cho vay = Xanh lá, Tiền ra / Đi vay = Đỏ), bảo toàn 100% 16 tiện ích và toàn vẹn dữ liệu.",
+  "publishedAt": "2026-11-18T11:21:00+07:00",
+  "changelog": "Build 92: Bỏ khối header trên Trang chủ để đẩy thẻ tài chính lên sát trên cùng; Tinh gọn màn hình đăng nhập (loại bỏ nút Đăng ký Google thừa khi đã đăng nhập sẵn tài khoản, đưa nút Sinh trắc học về đúng vị trí chuẩn).",
   "releaseNotes": [
-    "Quay trở lại cấu trúc giao diện chuẩn Soft Pastel V2 trang nhã và mượt mà",
-    "Đồng bộ chuẩn typography trên toàn bộ 5 màn hình: Trang chủ, Lịch sử, Thêm giao dịch, Báo cáo, Cài đặt",
-    "Chuẩn hóa màu sắc: Tiền vào / Thu nhập / Cho vay (Cần thu) mang màu Xanh lá (#10B981) kèm dấu (+)",
-    "Chuẩn hóa màu sắc: Tiền ra / Chi tiêu / Đi vay (Cần trả) mang màu Đỏ (#EF4444) kèm dấu (-)",
-    "Loại bỏ dữ liệu demo ảo trong trợ lý Ây với Ai, phân tích chuẩn xác từ giao dịch thực tế",
-    "Bảo toàn nguyên vẹn 100% tất cả 16 tiện ích tài chính và toàn bộ dữ liệu người dùng"
+    "Loại bỏ khối header 'Tổng quan tài chính' trên Trang chủ để đẩy thẻ tài sản lên trên cùng",
+    "Loại bỏ hoàn toàn nút 'Đăng ký nhanh với Google' thừa trên màn hình mở khóa tài khoản cũ",
+    "Nút 'Mở khóa bằng sinh trắc học' hiển thị độc lập, chuẩn mực và cân đối",
+    "Bảo toàn 100% dữ liệu, tính năng và logic kế toán"
   ]
 }
