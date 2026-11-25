@@ -1,18 +1,18 @@
 {
-  "versionCode": 93,
+  "versionCode": 94,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b93/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b93/Tailachinh_v2.0.apk",
-  "sha256": "c5bf1f2a4144082b9f0ab984f620a0f735d3cdcf45ec3a35a7e53bae0a5bd1c0",
-  "fileSize": 19231027,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b94/Tailachinh_v2.0.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b94/Tailachinh_v2.0.apk",
+  "sha256": "ed69b0b18e5ec81765cd8877121fbef5a95ce29b5187db09bd4001cb29b1441d",
+  "fileSize": 19231023,
   "mandatory": false,
-  "publishedAt": "2026-11-25T07:43:00+07:00",
-  "changelog": "Build 93: Đồng bộ toàn diện hệ thống thiết kế Material 3 & Soft Bento từ Trang chủ sang các màn hình Lịch sử, Báo cáo, Cài đặt và Thêm giao dịch: nâng cấp các thẻ Hero dòng tiền 20dp, tinh gọn nhịp tiêu đề đầu trang và chuẩn hóa hệ thống bo góc viên thuốc.",
+  "publishedAt": "2026-11-25T07:59:00+07:00",
+  "changelog": "Build 94: Loại bỏ hoàn toàn khung viền xám, chuyển toàn bộ nền app về màu trắng thuần khiết (#FFFFFF) đồng bộ, sáng sủa và thanh thoát.",
   "releaseNotes": [
-    "Lịch sử giao dịch: Nâng cấp Thẻ Hero Dòng tiền tháng 20dp sang trọng, tích hợp tiêu đề và bộ chuyển đổi Danh sách/Lịch tinh gọn trên 1 hàng",
-    "Báo cáo tài chính: Nâng cấp Thẻ Hero điều hành dòng tiền 20dp, khôi phục nền atmospheric gradient dịu mắt, đồng bộ các chip chọn chu kỳ dạng viên thuốc",
-    "Cài đặt & Thêm giao dịch: Chuẩn hóa nhịp khoảng cách đầu trang, nâng cấp thẻ Profile và thẻ nhập số tiền bo góc 20dp đồng bộ với Trang chủ",
-    "Bảo toàn 100% dữ liệu, tính năng tài chính và vượt qua 470+ bài kiểm thử tự động"
+    "Loại bỏ hoàn toàn lớp màu nền xám (0xFFF4F6F9) gây cảm giác khung viền thô quanh các khối thẻ",
+    "Chuyển toàn bộ nền hệ thống và các trang về màu trắng thuần (Pure White #FFFFFF) đồng bộ 100%",
+    "Tinh chỉnh viền thẻ sang màu siêu nhẹ (#F1F5F9) tạo sự liền mạch và hiện đại tuyệt đối",
+    "Bảo toàn 100% dữ liệu tài chính và vượt qua 470+ bài test"
   ]
 }
