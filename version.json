@@ -1,18 +1,18 @@
 {
-  "versionCode": 92,
+  "versionCode": 93,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b92/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b92/Tailachinh_v2.0.apk",
-  "sha256": "d32b6bb0044b0497eceafd904116ec9f738d75e31df83092a295a04833c2379b",
-  "fileSize": 19231032,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b93/Tailachinh_v2.0.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b93/Tailachinh_v2.0.apk",
+  "sha256": "c5bf1f2a4144082b9f0ab984f620a0f735d3cdcf45ec3a35a7e53bae0a5bd1c0",
+  "fileSize": 19231027,
   "mandatory": false,
-  "publishedAt": "2026-11-18T11:21:00+07:00",
-  "changelog": "Build 92: Bỏ khối header trên Trang chủ để đẩy thẻ tài chính lên sát trên cùng; Tinh gọn màn hình đăng nhập (loại bỏ nút Đăng ký Google thừa khi đã đăng nhập sẵn tài khoản, đưa nút Sinh trắc học về đúng vị trí chuẩn).",
+  "publishedAt": "2026-11-25T07:43:00+07:00",
+  "changelog": "Build 93: Đồng bộ toàn diện hệ thống thiết kế Material 3 & Soft Bento từ Trang chủ sang các màn hình Lịch sử, Báo cáo, Cài đặt và Thêm giao dịch: nâng cấp các thẻ Hero dòng tiền 20dp, tinh gọn nhịp tiêu đề đầu trang và chuẩn hóa hệ thống bo góc viên thuốc.",
   "releaseNotes": [
-    "Loại bỏ khối header 'Tổng quan tài chính' trên Trang chủ để đẩy thẻ tài sản lên trên cùng",
-    "Loại bỏ hoàn toàn nút 'Đăng ký nhanh với Google' thừa trên màn hình mở khóa tài khoản cũ",
-    "Nút 'Mở khóa bằng sinh trắc học' hiển thị độc lập, chuẩn mực và cân đối",
-    "Bảo toàn 100% dữ liệu, tính năng và logic kế toán"
+    "Lịch sử giao dịch: Nâng cấp Thẻ Hero Dòng tiền tháng 20dp sang trọng, tích hợp tiêu đề và bộ chuyển đổi Danh sách/Lịch tinh gọn trên 1 hàng",
+    "Báo cáo tài chính: Nâng cấp Thẻ Hero điều hành dòng tiền 20dp, khôi phục nền atmospheric gradient dịu mắt, đồng bộ các chip chọn chu kỳ dạng viên thuốc",
+    "Cài đặt & Thêm giao dịch: Chuẩn hóa nhịp khoảng cách đầu trang, nâng cấp thẻ Profile và thẻ nhập số tiền bo góc 20dp đồng bộ với Trang chủ",
+    "Bảo toàn 100% dữ liệu, tính năng tài chính và vượt qua 470+ bài kiểm thử tự động"
   ]
 }
