@@ -1,18 +1,18 @@
 ﻿{
-  "versionCode": 94,
+  "versionCode": 95,
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b94/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b94/Tailachinh_v2.0.apk",
-  "sha256": "ed69b0b18e5ec81765cd8877121fbef5a95ce29b5187db09bd4001cb29b1441d",
-  "fileSize": 19231023,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b95/Tailachinh_v2.0.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b95/Tailachinh_v2.0.apk",
+  "sha256": "fa9adad3036fedb7d09b75d0a468e33a940b385f90fc188725106f966f18663f",
+  "fileSize": 19231029,
   "mandatory": false,
-  "publishedAt": "2026-11-25T07:59:00+07:00",
-  "changelog": "Build 94: Loại bỏ hoàn toàn khung viền xám, chuyển toàn bộ nền app về màu trắng thuần khiết (#FFFFFF) đồng bộ, sáng sủa và thanh thoát.",
+  "publishedAt": "2026-11-25T09:12:00+07:00",
+  "changelog": "Build 95: Loại bỏ triệt để viền khung xám trên các màn hình Báo cáo, Lịch thu chi, Lịch sử. Tự động thông báo cập nhật khi mở app.",
   "releaseNotes": [
-    "Loại bỏ hoàn toàn lớp màu nền xám (0xFFF4F6F9) gây cảm giác khung viền thô quanh các khối thẻ",
-    "Chuyển toàn bộ nền hệ thống và các trang về màu trắng thuần (Pure White #FFFFFF) đồng bộ 100%",
-    "Tinh chỉnh viền thẻ sang màu siêu nhẹ (#F1F5F9) tạo sự liền mạch và hiện đại tuyệt đối",
-    "Bảo toàn 100% dữ liệu tài chính và vượt qua 470+ bài test"
+    "Loại bỏ hoàn toàn viền xám (border) và shadow thô trên tất cả các thẻ ở màn hình Báo cáo, Lịch thu chi và Lịch sử",
+    "Thiết kế lưới Lịch thu chi liền mạch, hiển thị số ngày trực tiếp trên nền trắng thuần khiết, không còn ô vuông viền xám",
+    "Tích hợp cơ chế tự động kiểm tra và hiển thị popup cập nhật ngay khi mở ứng dụng",
+    "Bảo toàn 100% dữ liệu tài chính và vượt qua toàn bộ 470+ bài test"
   ]
 }
