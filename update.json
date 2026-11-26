@@ -1,24 +1,19 @@
 ﻿{
-  "versionCode": 103,
+  "versionCode": 104,
   "versionName": "2.5.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b103/Tailachinh_v2.5.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b103/Tailachinh_v2.5.apk",
-  "sha256": "c41cba47ab3adfd7fb87010bae6108754b4b3d364ab754249cc0a0a1e0b4981c",
-  "fileSize": 5672316,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b104/Tailachinh_v2.5.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b104/Tailachinh_v2.5.apk",
+  "sha256": "5da9957afcac24e3e902fbb6858eb7e3b17d50270d83d77d2232d7a71e626b92",
+  "fileSize": 5708876,
   "mandatory": false,
-  "publishedAt": "2026-11-26T15:16:00+07:00",
-  "changelog": "Tài Là Chính V2.5.0 (Build 103): Thiết kế lại thanh điều hướng sang phong cách tối giản đơn sắc Iconly Monochrome Soft Glass (Thanh kính mờ 4 tab bên trái + Nút '+' trắng bên phải).",
+  "publishedAt": "2026-11-26T15:56:00+07:00",
+  "changelog": "Tài Là Chính V2.5.0 (Build 104): Nâng cấp đồng bộ toàn bộ hệ thống biểu tượng sang bộ Rounded Line Vector Icons (Lucide 1.1.0), giữ nguyên thanh điều hướng Iconly Monochrome Soft Glass và Top Safe Area.",
   "releaseNotes": [
-    "Bố cục 2 khối tách rời chuẩn Iconly: Chiều cao đồng nhất 62dp, khoảng cách spacedBy 12dp căn giữa.",
-    "Khối Trái: Thanh viên thuốc kính mờ trắng 62dp chứa 4 tab theo thứ tự: Trang chủ | Lịch sử | Báo cáo | Cài đặt.",
-    "Khối Phải: Nút '+' tròn trắng tách rời 62dp x 62dp.",
-    "Phong cách Monochrome đơn sắc: Loại bỏ hoàn toàn khối nền Squircle xanh và dấu dot — không dùng bất kỳ nền màu nào sau tab được chọn.",
-    "Tab đang chọn: Icon Filled đặc ruột hoàn toàn màu đen than đậm Color(0xFF111827), kích thước 24dp, scale 1.06x.",
-    "Tab chưa chọn: Icon Outlined nét rỗng bo tròn sắc nét Color(0xFF1F2937), kích thước 24dp.",
-    "Nút '+' trắng tách rời: Dấu '+' đen than nét 2.0dp kích thước 24dp StrokeCap.Round, nhún xúc giác 0.92f.",
-    "Kính mờ thật qua thư viện Haze 1.3.1 (blurRadius 22dp, HazeTint 0.80f trắng sữa, fallback 0.95f) làm mờ nội dung cuộn bên dưới.",
-    "Bóng tỏa siêu mềm khuếch tán qua Canvas drawBehind (blur 18dp, offsetY 6dp), viền bắt sáng 1dp (White -> #E5E7EB 0.75f).",
-    "Giữ nguyên 100% chuẩn hóa vùng an toàn phía trên (Status Bar & Camera Cutout) cho toàn bộ màn hình app."
+    "Nâng cấp toàn bộ biểu tượng UI từ Emoji hệ thống sang bộ Rounded Line Vector Icons (Lucide 1.1.0) nét bo tròn đồng nhất 2dp.",
+    "Hệ thống, Cài đặt, 16 Tiện ích, Bảo vệ dữ liệu, Cập nhật OTA & Onboarding dùng icon đơn sắc đen than (#111827) trong Squircle xám dịu (#F1F5F9).",
+    "Danh mục thu/chi, Ví, Ngân hàng & Thẻ dùng icon vector nét mảnh phối màu ngữ nghĩa dịu trên nền Squircle pastel.",
+    "Giữ nguyên 100% thanh điều hướng Iconly Monochrome Split Glass Nav và chuẩn hóa Top Safe Area (Status Bar & Camera Cutout).",
+    "Tối ưu kích thước APK với R8 tree-shaking (+35.7 KB so với Build 103), vượt qua 570/570 Unit Tests."
   ]
 }
