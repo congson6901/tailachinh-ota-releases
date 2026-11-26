@@ -1,19 +1,18 @@
 {
-  "versionCode": 104,
+  "versionCode": 105,
   "versionName": "2.5.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b104/Tailachinh_v2.5.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b104/Tailachinh_v2.5.apk",
-  "sha256": "5da9957afcac24e3e902fbb6858eb7e3b17d50270d83d77d2232d7a71e626b92",
-  "fileSize": 5708876,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b105/Tailachinh_v2.5.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b105/Tailachinh_v2.5.apk",
+  "sha256": "65a1d23b6daad3f6ba6e83c2c4cf14f59728dcd1e1b04a9c4309ce3def17e641",
+  "fileSize": 5708892,
   "mandatory": false,
-  "publishedAt": "2026-11-26T15:56:00+07:00",
-  "changelog": "Tài Là Chính V2.5.0 (Build 104): Nâng cấp đồng bộ toàn bộ hệ thống biểu tượng sang bộ Rounded Line Vector Icons (Lucide 1.1.0), giữ nguyên thanh điều hướng Iconly Monochrome Soft Glass và Top Safe Area.",
+  "publishedAt": "2026-11-26T16:25:00+07:00",
+  "changelog": "Tài Là Chính V2.5.0 (Build 105): Tinh giản hệ thống Vector Icon (gỡ bỏ hoàn toàn khung ô vuông nền màu bọc quanh icon trên toàn app) và vá lỗi cắt số tiền + nhầm icon mục Xăng xe & Di chuyển trên màn hình Thêm giao dịch.",
   "releaseNotes": [
-    "Nâng cấp toàn bộ biểu tượng UI từ Emoji hệ thống sang bộ Rounded Line Vector Icons (Lucide 1.1.0) nét bo tròn đồng nhất 2dp.",
-    "Hệ thống, Cài đặt, 16 Tiện ích, Bảo vệ dữ liệu, Cập nhật OTA & Onboarding dùng icon đơn sắc đen than (#111827) trong Squircle xám dịu (#F1F5F9).",
-    "Danh mục thu/chi, Ví, Ngân hàng & Thẻ dùng icon vector nét mảnh phối màu ngữ nghĩa dịu trên nền Squircle pastel.",
-    "Giữ nguyên 100% thanh điều hướng Iconly Monochrome Split Glass Nav và chuẩn hóa Top Safe Area (Status Bar & Camera Cutout).",
-    "Tối ưu kích thước APK với R8 tree-shaking (+35.7 KB so với Build 103), vượt qua 570/570 Unit Tests."
+    "Bỏ hoàn toàn khung ô vuông/nền màu bọc quanh icon trên TlcIconBadge và toàn bộ màn hình (Danh mục, Ví, 16 Tiện ích, Cài đặt, Tài khoản, Bảo vệ dữ liệu, Onboarding, Chi tiết giao dịch) để giao diện tối giản và thoáng hơn.",
+    "Giữ nguyên 100% thanh điều hướng Iconly Monochrome Split Glass Nav, icon trắng trên nền xanh thẻ Tổng tài sản khả dụng, và khung/viền báo trạng thái của thẻ ví & danh mục đang chọn.",
+    "Vá lỗi cắt nửa trên chữ số nhập tiền tại màn hình Thêm giao dịch: cố định tiêu đề Thêm giao dịch với WindowInsets.safeDrawing Top, tăng khoảng thở & lineHeight cho chữ số 0 đ.",
+    "Sửa lỗi map nhầm icon mục Xăng xe & Di chuyển sang mũi tên chuyển khoản: khôi phục đúng icon Lucide.Fuel (#2563EB) cho Xăng xe & Di chuyển và Lucide.Car cho Di chuyển."
   ]
 }
