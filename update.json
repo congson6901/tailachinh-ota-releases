@@ -1,19 +1,20 @@
 ﻿{
-  "versionCode": 100,
+  "versionCode": 101,
   "versionName": "2.5.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b100/Tailachinh_v2.5.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b100/Tailachinh_v2.5.apk",
-  "sha256": "6f21d97bdd034da36a78cad4206b2311350c5ac882690baab9a403dc9edd468e",
-  "fileSize": 5632225,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b101/Tailachinh_v2.5.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b101/Tailachinh_v2.5.apk",
+  "sha256": "3322529cbf876994d786ee733704d9f0bd1224c1cb6ccdf4023e9f34b4399379",
+  "fileSize": 5688683,
   "mandatory": false,
-  "publishedAt": "2026-11-26T13:46:00+07:00",
-  "changelog": "Tài Là Chính V2.5.0 (Build 100): Chuẩn hóa vùng an toàn Top Safe Area toàn app và nâng cấp thanh điều hướng Liquid Glass.",
+  "publishedAt": "2026-11-26T14:13:00+07:00",
+  "changelog": "Tài Là Chính V2.5.0 (Build 101): Nâng cấp thanh điều hướng Real Glassmorphism Floating Pill — Hướng A (Haze Blur + Canvas Specular Lighting).",
   "releaseNotes": [
-    "Chuẩn hóa vùng an toàn phía trên (WindowInsets.safeDrawing.only(Top)) cho toàn bộ các màn hình chính và 16 tiện ích, triệt tiêu hoàn toàn lỗi nội dung đè lên đồng hồ 13:18 / pin / camera đục lỗ.",
-    "Bổ sung lớp che nền trắng thuần #FFFFFF phía trên cùng (Top Scrim) giúp nội dung cuộn mượt mà bên dưới thanh trạng thái, giữ icon hệ thống tối sắc nét (isAppearanceLightStatusBars = true).",
-    "Nâng cấp thanh điều hướng Liquid Glass Floating Pill (cao 68dp, bo tròn CircleShape, viền kính chuyển sắc 1dp, bóng đổ mềm ambient shadow).",
-    "Nút '+' trung tâm 2 lớp đồng tâm: Vòng hào quang kính ngoài 54dp và lõi xanh thương hiệu 42dp với hiệu ứng nhún xúc giác tactile 0.92x.",
-    "Tab đang chọn được bao bọc bởi khối Squircle xanh thương hiệu 40dp bo cong 14dp kèm chấm tròn báo hiệu 4dp tinh tế."
+    "Tích hợp kính mờ thật thời gian thực qua thư viện Haze 1.3.1 (blurRadius 22dp, HazeTint 0.72f, fallbackTint 0.94f) làm mờ danh sách giao dịch cuộn bên dưới thanh điều hướng.",
+    "Khung viên thuốc 64dp tự vẽ bóng tỏa khuếch tán mềm siêu tự nhiên qua Canvas drawBehind (Color(0xFF0F172A).copy(0.09f), blur 20dp, offsetY 8dp) loại bỏ hoàn toàn Modifier.shadow cứng.",
+    "Viền bắt sáng kính chéo 1dp (White 0.95f -> E2E8F0 -> CBD5E1) kèm highlight nội 0.5dp trắng mờ sát mép trên.",
+    "Căn thẳng tuyệt đối 1 trục ngang (bỏ dot bên dưới), tab đang chọn bọc khối Squircle xanh pastel 44dp x 44dp kèm icon Filled xanh thương hiệu.",
+    "Đồng bộ chuẩn 4 cặp icon: Sửa triệt để lỗi lệch nét icon Báo cáo bằng cặp InsertChartOutlined (nét rỗng) / InsertChart (đặc ruột) hài hòa với Trang chủ, Lịch sử, Cài đặt.",
+    "Nút '+' khối cầu kính xanh 3D duy nhất 48dp cân tâm chính giữa (bỏ vòng ngoài 54dp), ánh sáng đỉnh Specular Radial Glow và bóng phát sáng xanh dịu."
   ]
 }
