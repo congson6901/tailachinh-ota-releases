@@ -1,18 +1,19 @@
 ﻿{
-  "versionCode": 98,
+  "versionCode": 99,
   "versionName": "2.5.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b98/Tailachinh_v2.5.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b98/Tailachinh_v2.5.apk",
-  "sha256": "600028a83113f6790cb537ecc2e48bb33174ce038aab3d73b68494afaadc7f86",
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b99/Tailachinh_v2.5.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b99/Tailachinh_v2.5.apk",
+  "sha256": "f77366c70f296d6e5b5322e438922d5d95755bcec90c7d4257f9e89de6ecfd44",
   "fileSize": 5632226,
   "mandatory": false,
-  "publishedAt": "2026-11-26T09:33:00+07:00",
-  "changelog": "Tài Là Chính V2.5.0 (Build 98): Sửa dứt điểm lỗi lệch cao độ tiêu đề Cài đặt & Tài khoản (double top inset) và sửa lỗi biểu đồ Chi tiêu theo ngày hiển thị rỗng ở Báo cáo tài chính.",
+  "publishedAt": "2026-11-26T13:05:00+07:00",
+  "changelog": "Tài Là Chính V2.5.0 (Build 99): Nâng cấp thanh điều hướng dưới Soft Glassmorphism Floating Pill tối giản, sang trọng và mượt mà 60-120fps.",
   "releaseNotes": [
-    "Căn chỉnh lại cao độ tiêu đề Cài đặt & Tài khoản thẳng hàng tuyệt đối với các tab chính, không bị đẩy tụt hay cắt dấu tiếng Việt",
-    "Sửa lỗi biểu đồ Chi tiêu theo ngày trên Báo cáo tài chính: đọc và vẽ đúng số liệu SQL theo ngày khi đã sử dụng Room Database",
-    "Giữ trọn bộ nâng cấp Phase 2: Room SQLite (WAL) + FTS4 + Paging 3 mượt 60-120fps và Auto-Bank Engine 2.0",
-    "Vượt qua toàn bộ 567/567 bài test kiểm định tự động và đóng gói tối ưu R8"
+    "Thanh điều hướng dưới dạng viên thuốc nổi kính mờ Soft Glassmorphism (cao 64dp, viền kính chuyển sắc 1dp, bóng đổ khuếch tán siêu mềm ambient shadow)",
+    "Bỏ hoàn toàn nhãn chữ, chuyển sang chế độ Icon-Only (Filled khi chọn, Outlined khi chưa chọn) giữ nguyên contentDescription đảm bảo Accessibility",
+    "Nút '+' trung tâm thu gọn tinh tế vào bên trong viên thuốc (46dp) với gradient xanh thương hiệu và hiệu ứng xúc giác nhún nhẹ 0.92x",
+    "Lớp đệm gradient mỏng (Bottom Scrim) phía sau giúp danh sách giao dịch cuộn qua bên dưới êm ái, mượt mà",
+    "Đồng bộ chuẩn contentPadding phía dưới cho cả 4 màn hình chính đảm bảo không bị thanh điều hướng che khuất"
   ]
 }
