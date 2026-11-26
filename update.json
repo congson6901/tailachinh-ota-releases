@@ -1,18 +1,18 @@
 ﻿{
-  "versionCode": 95,
-  "versionName": "2.0.0",
+  "versionCode": 96,
+  "versionName": "2.5.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b95/Tailachinh_v2.0.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.0.0-b95/Tailachinh_v2.0.apk",
-  "sha256": "fa9adad3036fedb7d09b75d0a468e33a940b385f90fc188725106f966f18663f",
-  "fileSize": 19231029,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b96/Tailachinh_v2.5.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b96/Tailachinh_v2.5.apk",
+  "sha256": "35ce07a56f9c2e96cef551c53bd3b00ce80f766b33c943e20e62d612bc4bf843",
+  "fileSize": 5632238,
   "mandatory": false,
-  "publishedAt": "2026-11-25T09:12:00+07:00",
-  "changelog": "Build 95: Loại bỏ triệt để viền khung xám trên các màn hình Báo cáo, Lịch thu chi, Lịch sử. Tự động thông báo cập nhật khi mở app.",
+  "publishedAt": "2026-11-26T08:30:00+07:00",
+  "changelog": "Tài Là Chính V2.5.0 (Build 96): Nâng cấp lõi dữ liệu Room SQLite + FTS4 + Paging 3 siêu mượt (<15ms cho 30.000+ giao dịch) và Auto-Bank Engine 2.0 (20+ ngân hàng/ví, cập nhật rule OTA, ghép chuyển khoản nội bộ 2 chiều & đối soát số dư).",
   "releaseNotes": [
-    "Loại bỏ hoàn toàn viền xám (border) và shadow thô trên tất cả các thẻ ở màn hình Báo cáo, Lịch thu chi và Lịch sử",
-    "Thiết kế lưới Lịch thu chi liền mạch, hiển thị số ngày trực tiếp trên nền trắng thuần khiết, không còn ô vuông viền xám",
-    "Tích hợp cơ chế tự động kiểm tra và hiển thị popup cập nhật ngay khi mở ứng dụng",
-    "Bảo toàn 100% dữ liệu tài chính và vượt qua toàn bộ 470+ bài test"
+    "Nâng cấp toàn bộ tầng dữ liệu sang Room SQLite (WAL) + FTS4 + Paging 3: cuộn danh sách, lịch thu chi và tìm kiếm tiếng Việt không dấu mượt 60-120fps ngay cả khi có 30.000+ giao dịch",
+    "Auto-Bank Notification Engine 2.0: hỗ trợ 20+ ngân hàng & ví điện tử tại Việt Nam (VCB, TCB, MB, CTG, BIDV, VPB, ACB, TPB, MoMo, ZaloPay, ShopeePay...), xử lý thông báo nhiều dòng InboxStyle và tự cập nhật rule nóng qua OTA",
+    "Chống trùng 3 lớp thông minh (kể cả qua ranh giới phút & cross-app), tự động ghép chuyển khoản nội bộ 2 chiều, tự học danh mục theo merchant và đối soát cân bằng số dư ví an toàn",
+    "Tối ưu kích thước và bảo mật bản Release V2.5.0 với R8/ProGuard, vượt qua 565/565 bài test kiểm định tự động"
   ]
 }
