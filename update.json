@@ -1,21 +1,24 @@
 ﻿{
-  "versionCode": 102,
+  "versionCode": 103,
   "versionName": "2.5.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b102/Tailachinh_v2.5.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b102/Tailachinh_v2.5.apk",
-  "sha256": "a580dece3628d1eebf6431a5744eefcc6da5c0444499e0ac7bbd8693dbb72154",
-  "fileSize": 5688687,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b103/Tailachinh_v2.5.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b103/Tailachinh_v2.5.apk",
+  "sha256": "c41cba47ab3adfd7fb87010bae6108754b4b3d364ab754249cc0a0a1e0b4981c",
+  "fileSize": 5672316,
   "mandatory": false,
-  "publishedAt": "2026-11-26T14:52:00+07:00",
-  "changelog": "Tài Là Chính V2.5.0 (Build 102): Điều chỉnh bố cục thanh điều hướng sang Split Floating Navigation (Nút '+' tròn tách rời bên trái + Thanh viên thuốc kính mờ 4 tab bên phải).",
+  "publishedAt": "2026-11-26T15:16:00+07:00",
+  "changelog": "Tài Là Chính V2.5.0 (Build 103): Thiết kế lại thanh điều hướng sang phong cách tối giản đơn sắc Iconly Monochrome Soft Glass (Thanh kính mờ 4 tab bên trái + Nút '+' trắng bên phải).",
   "releaseNotes": [
-    "Bố cục 2 khối tách rời: Chiều cao đồng nhất 60dp, khoảng cách spacedBy 12dp căn giữa.",
-    "Khối Trái: Nút '+' tròn tách rời 60dp x 60dp khối cầu 3D kính xanh thương hiệu, bóng phát sáng dịu Ambient Colored Glow (blur 16dp, offsetY 6dp), icon '+' trắng 26dp bo tròn nét 3.0dp và nhún xúc giác 0.92f.",
-    "Khối Phải: Thanh viên thuốc kính mờ 60dp chứa 4 tab theo thứ tự: Trang chủ | Lịch sử | Báo cáo | Cài đặt.",
-    "Kính mờ thật thời gian thực qua thư viện Haze 1.3.1 (blurRadius 22dp, HazeTint 0.72f, fallback 0.94f) làm mờ nội dung cuộn bên dưới.",
-    "Bóng tỏa mềm khuếch tán qua Canvas drawBehind (blur 20dp, offsetY 8dp), viền bắt sáng Specular Glass Rim 1dp và highlight nội 0.5dp sát mép trên.",
-    "Tab đang chọn: Khối Squircle pastel xanh 44dp x 44dp, icon Filled xanh thương hiệu 22dp (scale 1.04x, bỏ dot bên dưới).",
-    "Giữ nguyên 100% chuẩn hóa vùng an toàn phía trên (Status Bar & Camera Cutout) cho toàn bộ màn hình."
+    "Bố cục 2 khối tách rời chuẩn Iconly: Chiều cao đồng nhất 62dp, khoảng cách spacedBy 12dp căn giữa.",
+    "Khối Trái: Thanh viên thuốc kính mờ trắng 62dp chứa 4 tab theo thứ tự: Trang chủ | Lịch sử | Báo cáo | Cài đặt.",
+    "Khối Phải: Nút '+' tròn trắng tách rời 62dp x 62dp.",
+    "Phong cách Monochrome đơn sắc: Loại bỏ hoàn toàn khối nền Squircle xanh và dấu dot — không dùng bất kỳ nền màu nào sau tab được chọn.",
+    "Tab đang chọn: Icon Filled đặc ruột hoàn toàn màu đen than đậm Color(0xFF111827), kích thước 24dp, scale 1.06x.",
+    "Tab chưa chọn: Icon Outlined nét rỗng bo tròn sắc nét Color(0xFF1F2937), kích thước 24dp.",
+    "Nút '+' trắng tách rời: Dấu '+' đen than nét 2.0dp kích thước 24dp StrokeCap.Round, nhún xúc giác 0.92f.",
+    "Kính mờ thật qua thư viện Haze 1.3.1 (blurRadius 22dp, HazeTint 0.80f trắng sữa, fallback 0.95f) làm mờ nội dung cuộn bên dưới.",
+    "Bóng tỏa siêu mềm khuếch tán qua Canvas drawBehind (blur 18dp, offsetY 6dp), viền bắt sáng 1dp (White -> #E5E7EB 0.75f).",
+    "Giữ nguyên 100% chuẩn hóa vùng an toàn phía trên (Status Bar & Camera Cutout) cho toàn bộ màn hình app."
   ]
 }
