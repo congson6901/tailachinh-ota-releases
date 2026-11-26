@@ -1,19 +1,19 @@
 {
-  "versionCode": 99,
+  "versionCode": 100,
   "versionName": "2.5.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b99/Tailachinh_v2.5.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b99/Tailachinh_v2.5.apk",
-  "sha256": "f77366c70f296d6e5b5322e438922d5d95755bcec90c7d4257f9e89de6ecfd44",
-  "fileSize": 5632226,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b100/Tailachinh_v2.5.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b100/Tailachinh_v2.5.apk",
+  "sha256": "6f21d97bdd034da36a78cad4206b2311350c5ac882690baab9a403dc9edd468e",
+  "fileSize": 5632225,
   "mandatory": false,
-  "publishedAt": "2026-11-26T13:05:00+07:00",
-  "changelog": "Tài Là Chính V2.5.0 (Build 99): Nâng cấp thanh điều hướng dưới Soft Glassmorphism Floating Pill tối giản, sang trọng và mượt mà 60-120fps.",
+  "publishedAt": "2026-11-26T13:46:00+07:00",
+  "changelog": "Tài Là Chính V2.5.0 (Build 100): Chuẩn hóa vùng an toàn Top Safe Area toàn app và nâng cấp thanh điều hướng Liquid Glass.",
   "releaseNotes": [
-    "Thanh điều hướng dưới dạng viên thuốc nổi kính mờ Soft Glassmorphism (cao 64dp, viền kính chuyển sắc 1dp, bóng đổ khuếch tán siêu mềm ambient shadow)",
-    "Bỏ hoàn toàn nhãn chữ, chuyển sang chế độ Icon-Only (Filled khi chọn, Outlined khi chưa chọn) giữ nguyên contentDescription đảm bảo Accessibility",
-    "Nút '+' trung tâm thu gọn tinh tế vào bên trong viên thuốc (46dp) với gradient xanh thương hiệu và hiệu ứng xúc giác nhún nhẹ 0.92x",
-    "Lớp đệm gradient mỏng (Bottom Scrim) phía sau giúp danh sách giao dịch cuộn qua bên dưới êm ái, mượt mà",
-    "Đồng bộ chuẩn contentPadding phía dưới cho cả 4 màn hình chính đảm bảo không bị thanh điều hướng che khuất"
+    "Chuẩn hóa vùng an toàn phía trên (WindowInsets.safeDrawing.only(Top)) cho toàn bộ các màn hình chính và 16 tiện ích, triệt tiêu hoàn toàn lỗi nội dung đè lên đồng hồ 13:18 / pin / camera đục lỗ.",
+    "Bổ sung lớp che nền trắng thuần #FFFFFF phía trên cùng (Top Scrim) giúp nội dung cuộn mượt mà bên dưới thanh trạng thái, giữ icon hệ thống tối sắc nét (isAppearanceLightStatusBars = true).",
+    "Nâng cấp thanh điều hướng Liquid Glass Floating Pill (cao 68dp, bo tròn CircleShape, viền kính chuyển sắc 1dp, bóng đổ mềm ambient shadow).",
+    "Nút '+' trung tâm 2 lớp đồng tâm: Vòng hào quang kính ngoài 54dp và lõi xanh thương hiệu 42dp với hiệu ứng nhún xúc giác tactile 0.92x.",
+    "Tab đang chọn được bao bọc bởi khối Squircle xanh thương hiệu 40dp bo cong 14dp kèm chấm tròn báo hiệu 4dp tinh tế."
   ]
 }
