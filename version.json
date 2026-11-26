@@ -1,18 +1,18 @@
 {
-  "versionCode": 96,
+  "versionCode": 97,
   "versionName": "2.5.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b96/Tailachinh_v2.5.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b96/Tailachinh_v2.5.apk",
-  "sha256": "4e8bc018848d84852e19e65c82c6b32f86a634c923217b1849195260b57a9cc9",
-  "fileSize": 5632236,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b97/Tailachinh_v2.5.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b97/Tailachinh_v2.5.apk",
+  "sha256": "43bae9b5cbaaed0724900eaad20f808f8527698389aa6ecf12fc30195d03b937",
+  "fileSize": 5632242,
   "mandatory": false,
-  "publishedAt": "2026-11-26T08:30:00+07:00",
-  "changelog": "Tài Là Chính V2.5.0 (Build 96): Nâng cấp lõi dữ liệu Room SQLite + FTS4 + Paging 3 siêu mượt (<15ms cho 30.000+ giao dịch) và Auto-Bank Engine 2.0 (20+ ngân hàng/ví, cập nhật rule OTA, ghép chuyển khoản nội bộ 2 chiều & đối soát số dư).",
+  "publishedAt": "2026-11-26T09:05:00+07:00",
+  "changelog": "Tài Là Chính V2.5.0 (Build 97): Tinh chỉnh giao diện Cài đặt & Tài khoản (sửa cắt mép tiêu đề, chuyển Cập nhật ứng dụng vào Tài khoản & Hồ sơ), kèm toàn bộ nâng cấp Phase 2 (Room SQLite + FTS4 + Paging 3 & Auto-Bank Engine 2.0).",
   "releaseNotes": [
-    "Nâng cấp toàn bộ tầng dữ liệu sang Room SQLite (WAL) + FTS4 + Paging 3: cuộn danh sách, lịch thu chi và tìm kiếm tiếng Việt không dấu mượt 60-120fps ngay cả khi có 30.000+ giao dịch",
-    "Auto-Bank Notification Engine 2.0: hỗ trợ 20+ ngân hàng & ví điện tử tại Việt Nam (VCB, TCB, MB, CTG, BIDV, VPB, ACB, TPB, MoMo, ZaloPay, ShopeePay...), xử lý thông báo nhiều dòng InboxStyle và tự cập nhật rule nóng qua OTA",
-    "Chống trùng 3 lớp thông minh (kể cả qua ranh giới phút & cross-app), tự động ghép chuyển khoản nội bộ 2 chiều, tự học danh mục theo merchant và đối soát cân bằng số dư ví an toàn",
-    "Tối ưu kích thước và bảo mật bản Release V2.5.0 với R8/ProGuard, vượt qua 565/565 bài test kiểm định tự động"
+    "Khắc phục triệt để lỗi tiêu đề Cài đặt & Tài khoản bị đẩy cao sát mép trên trên một số màn hình",
+    "Di chuyển mục Cập nhật ứng dụng gọn gàng sang trang Tài khoản & Hồ sơ; loại bỏ mục Vùng nguy hiểm khỏi Cài đặt",
+    "Giữ trọn vẹn nâng cấp Phase 2: Room SQLite (WAL) + FTS4 + Paging 3 mượt 60-120fps và Auto-Bank Engine 2.0",
+    "Vượt qua toàn bộ 565/565 bài test kiểm định tự động và tối ưu dung lượng APK Release bằng R8"
   ]
 }
