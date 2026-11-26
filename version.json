@@ -1,18 +1,18 @@
 {
-  "versionCode": 97,
+  "versionCode": 98,
   "versionName": "2.5.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b97/Tailachinh_v2.5.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b97/Tailachinh_v2.5.apk",
-  "sha256": "286604ae718a26d99c70f188af73c706c95f2591d5ed7b3e35741542f1112dc4",
-  "fileSize": 5632229,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b98/Tailachinh_v2.5.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b98/Tailachinh_v2.5.apk",
+  "sha256": "600028a83113f6790cb537ecc2e48bb33174ce038aab3d73b68494afaadc7f86",
+  "fileSize": 5632226,
   "mandatory": false,
-  "publishedAt": "2026-11-26T09:05:00+07:00",
-  "changelog": "Tài Là Chính V2.5.0 (Build 97): Tinh chỉnh giao diện Cài đặt & Tài khoản (sửa cắt mép tiêu đề, chuyển Cập nhật ứng dụng vào Tài khoản & Hồ sơ), kèm toàn bộ nâng cấp Phase 2 (Room SQLite + FTS4 + Paging 3 & Auto-Bank Engine 2.0).",
+  "publishedAt": "2026-11-26T09:33:00+07:00",
+  "changelog": "Tài Là Chính V2.5.0 (Build 98): Sửa dứt điểm lỗi lệch cao độ tiêu đề Cài đặt & Tài khoản (double top inset) và sửa lỗi biểu đồ Chi tiêu theo ngày hiển thị rỗng ở Báo cáo tài chính.",
   "releaseNotes": [
-    "Khắc phục triệt để lỗi tiêu đề Cài đặt & Tài khoản bị đẩy cao sát mép trên trên một số màn hình",
-    "Di chuyển mục Cập nhật ứng dụng gọn gàng sang trang Tài khoản & Hồ sơ; loại bỏ mục Vùng nguy hiểm khỏi Cài đặt",
-    "Giữ trọn vẹn nâng cấp Phase 2: Room SQLite (WAL) + FTS4 + Paging 3 mượt 60-120fps và Auto-Bank Engine 2.0",
-    "Vượt qua toàn bộ 565/565 bài test kiểm định tự động và tối ưu dung lượng APK Release bằng R8"
+    "Căn chỉnh lại cao độ tiêu đề Cài đặt & Tài khoản thẳng hàng tuyệt đối với các tab chính, không bị đẩy tụt hay cắt dấu tiếng Việt",
+    "Sửa lỗi biểu đồ Chi tiêu theo ngày trên Báo cáo tài chính: đọc và vẽ đúng số liệu SQL theo ngày khi đã sử dụng Room Database",
+    "Giữ trọn bộ nâng cấp Phase 2: Room SQLite (WAL) + FTS4 + Paging 3 mượt 60-120fps và Auto-Bank Engine 2.0",
+    "Vượt qua toàn bộ 567/567 bài test kiểm định tự động và đóng gói tối ưu R8"
   ]
 }
