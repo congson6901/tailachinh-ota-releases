@@ -1,18 +1,18 @@
 {
-  "versionCode": 106,
+  "versionCode": 107,
   "versionName": "2.5.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b106/Tailachinh_v2.5.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b106/Tailachinh_v2.5.apk",
-  "sha256": "ec2e0e4fe8a5dcad596f296803ccbbe1a0f66e925c738b452c958d196f6ef0da",
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b107/Tailachinh_v2.5.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b107/Tailachinh_v2.5.apk",
+  "sha256": "4846902b237356f4343a17f1506d305cc3694c5668e97c4988bc0c115a06ab58",
   "fileSize": 5708667,
   "mandatory": false,
-  "publishedAt": "2026-11-27T09:02:00+07:00",
-  "changelog": "Tài Là Chính V2.5.0 (Build 106): Sửa triệt để lỗi nhận diện nhầm icon danh mục Lương và Thưởng trong CategoryIconProvider và rà soát toàn bộ bộ danh mục Thu/Chi mặc định.",
+  "publishedAt": "2026-11-27T11:30:00+07:00",
+  "changelog": "Tài Là Chính V2.5.0 (Build 107): Tinh chỉnh bố cục màn hình Báo cáo tài chính (ReportScreen) — tăng khoảng thoáng dưới tiêu đề biểu đồ, gỡ bỏ khối Thông minh tài chính và cân đối khoảng cách tới Cơ cấu chi tiêu.",
   "releaseNotes": [
-    "Sửa lỗi danh mục Lương và Thưởng hiển thị nhầm icon dao nĩa của Ăn uống: chuyển Lương sang icon Cặp công việc (Briefcase) và Thưởng sang icon Huy chương (Award) với tông màu xanh ngọc Thu nhập.",
-    "Nâng cấp cơ chế khớp từ khóa danh mục bằng khớp chính xác có dấu và ranh giới từ thay cho kiểm tra chuỗi con trần, loại bỏ hoàn toàn tình trạng khớp nhầm trên Lương, Thưởng, Thanh toán, Ngân hàng, Trường học, Năng lượng.",
-    "Chuẩn hóa thứ tự ưu tiên phân loại Thu nhập và gộp khoảng trắng sau chuẩn hóa ký tự đặc biệt trong CategoryIconProvider.",
-    "Bổ sung bộ unit test chuyên sâu cho toàn bộ 13 danh mục Chi tiêu và 6 danh mục Thu nhập mặc định, vượt qua toàn bộ 576 / 576 bài kiểm thử đơn vị."
+    "Tăng khoảng đệm dọc 20dp giữa hàng tiêu đề Chi tiêu theo ngày (kèm nút chuyển biểu đồ Cột/Tròn) và phần biểu đồ bên dưới, giúp đỉnh cột T7 và CN tách thoáng khỏi mép dưới nút chuyển chế độ.",
+    "Loại bỏ hoàn toàn khối UI Thông minh tài chính khỏi màn hình Báo cáo tài chính trong khi vẫn bảo toàn toàn bộ logic tính toán và tổng hợp số liệu.",
+    "Cân chỉnh khoảng cách từ đáy thẻ biểu đồ tới tiêu đề Cơ cấu chi tiêu đạt đúng 24dp cho nhịp bố cục gọn và thoáng hơn.",
+    "Kiểm chứng vượt qua toàn bộ 576 / 576 bài kiểm thử đơn vị và đóng gói bản Release mới."
   ]
 }
