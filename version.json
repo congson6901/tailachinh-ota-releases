@@ -1,18 +1,18 @@
 {
-  "versionCode": 105,
+  "versionCode": 106,
   "versionName": "2.5.0",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b105/Tailachinh_v2.5.apk",
-  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b105/Tailachinh_v2.5.apk",
-  "sha256": "65a1d23b6daad3f6ba6e83c2c4cf14f59728dcd1e1b04a9c4309ce3def17e641",
-  "fileSize": 5708892,
+  "apkUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b106/Tailachinh_v2.5.apk",
+  "downloadUrl": "https://github.com/congson6901/tailachinh-ota-releases/releases/download/v2.5.0-b106/Tailachinh_v2.5.apk",
+  "sha256": "ec2e0e4fe8a5dcad596f296803ccbbe1a0f66e925c738b452c958d196f6ef0da",
+  "fileSize": 5708667,
   "mandatory": false,
-  "publishedAt": "2026-11-26T16:25:00+07:00",
-  "changelog": "Tài Là Chính V2.5.0 (Build 105): Tinh giản hệ thống Vector Icon (gỡ bỏ hoàn toàn khung ô vuông nền màu bọc quanh icon trên toàn app) và vá lỗi cắt số tiền + nhầm icon mục Xăng xe & Di chuyển trên màn hình Thêm giao dịch.",
+  "publishedAt": "2026-11-27T09:02:00+07:00",
+  "changelog": "Tài Là Chính V2.5.0 (Build 106): Sửa triệt để lỗi nhận diện nhầm icon danh mục Lương và Thưởng trong CategoryIconProvider và rà soát toàn bộ bộ danh mục Thu/Chi mặc định.",
   "releaseNotes": [
-    "Bỏ hoàn toàn khung ô vuông/nền màu bọc quanh icon trên TlcIconBadge và toàn bộ màn hình (Danh mục, Ví, 16 Tiện ích, Cài đặt, Tài khoản, Bảo vệ dữ liệu, Onboarding, Chi tiết giao dịch) để giao diện tối giản và thoáng hơn.",
-    "Giữ nguyên 100% thanh điều hướng Iconly Monochrome Split Glass Nav, icon trắng trên nền xanh thẻ Tổng tài sản khả dụng, và khung/viền báo trạng thái của thẻ ví & danh mục đang chọn.",
-    "Vá lỗi cắt nửa trên chữ số nhập tiền tại màn hình Thêm giao dịch: cố định tiêu đề Thêm giao dịch với WindowInsets.safeDrawing Top, tăng khoảng thở & lineHeight cho chữ số 0 đ.",
-    "Sửa lỗi map nhầm icon mục Xăng xe & Di chuyển sang mũi tên chuyển khoản: khôi phục đúng icon Lucide.Fuel (#2563EB) cho Xăng xe & Di chuyển và Lucide.Car cho Di chuyển."
+    "Sửa lỗi danh mục Lương và Thưởng hiển thị nhầm icon dao nĩa của Ăn uống: chuyển Lương sang icon Cặp công việc (Briefcase) và Thưởng sang icon Huy chương (Award) với tông màu xanh ngọc Thu nhập.",
+    "Nâng cấp cơ chế khớp từ khóa danh mục bằng khớp chính xác có dấu và ranh giới từ thay cho kiểm tra chuỗi con trần, loại bỏ hoàn toàn tình trạng khớp nhầm trên Lương, Thưởng, Thanh toán, Ngân hàng, Trường học, Năng lượng.",
+    "Chuẩn hóa thứ tự ưu tiên phân loại Thu nhập và gộp khoảng trắng sau chuẩn hóa ký tự đặc biệt trong CategoryIconProvider.",
+    "Bổ sung bộ unit test chuyên sâu cho toàn bộ 13 danh mục Chi tiêu và 6 danh mục Thu nhập mặc định, vượt qua toàn bộ 576 / 576 bài kiểm thử đơn vị."
   ]
 }
